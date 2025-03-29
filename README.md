@@ -9,7 +9,7 @@ Ce code est basé sur le cours M.Tordeux, Maîtres de conférences HDR à l'Unvi
 - Construction des nœuds de Tchebychev sur un intervalle \([a, b]\)
 - Résolution du système d’interpolation par projection (formule exacte)
 - Évaluation de l’interpolant sur une grille de points
-- Visualisation de la fonction réelle vs l’interpolant
+- Visualisation de la fonction réelle et de l’interpolant
 - Calcul et affichage de l’erreur maximale
 
 # Exemple
