@@ -18,7 +18,7 @@ Ce code est basé sur le cours M.Tordeux, Maîtres de conférences HDR à l'Unvi
 
 # Utilisation
 
-``python
+```python
 from tchebychev_interpolation import interpolation_tchebychev
 
 erreur, x_eval, f_exact, approx = interpolation_tchebychev(-10, 10)
